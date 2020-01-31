@@ -1,1 +1,1 @@
-# Projects
+# Bank Customer Churn Project
